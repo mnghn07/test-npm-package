@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "@mngh12/test-package",
   "version": "1.0.0",
   "description": "A brief description of what the project does.",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnghn07/test-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mnghn07/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/mnghn07/test-npm-package#readme"
 }
